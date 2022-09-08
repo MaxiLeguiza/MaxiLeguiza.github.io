@@ -1,0 +1,24 @@
+.texto{
+text-align: center;
+margin-top: 50px;
+padding: 0px;
+font-size: 35px;
+color: black;
+font-family: 'Qwitcher Grypen', cursive;
+    font-weight: bold;
+    text-shadow: 1px 1px white;
+}
+h1{
+    font-size: 60px;
+    color: red;
+}
+body{
+    background-image: url("https://cdn.bhdw.net/im/corazon-rojo-en-corazones-de-madera-papel-pintado-88143_w635.webp");
+    background-color: rgba(50,50,50,50);
+    background-size: cover;
+    filter: drop-shadow(2px 4px 6px black);
+    
+}
+.tt{
+    font-size: 70px;
+}
